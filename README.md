@@ -1,6 +1,6 @@
 # Group 20 Phase-4-Project
 
-# Students Names
+# Student Names
 * Frank Kiptoo Ruto
 * Abdihakim S Mohamed
 * Lilian Ngige
