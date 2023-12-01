@@ -22,7 +22,7 @@ The firm needs insights into where the market is heading, not just where it has 
 
 The data used was downloaded from [Zillow Research Data](https://www.zillow.com/research/data/)
 
-# Methods Applied
+# Methodology
 * Loaded the data using python modules to read the data
 * Data Understanding
 * Data Processing
