@@ -61,22 +61,21 @@ The data used was downloaded from [Zillow Research Data](https://www.zillow.com/
 
 ![Screenshot 2023-12-01 032706](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/4f2428a4-52a9-4577-b2f7-cac85073d073)
 
-## ARIMA(2,0) Model
+## Model 1 (Baseline): ARIMA(2,0) Model
 
-![Screenshot 2023-12-01 032813](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/9280f75a-accd-4b3f-ae48-489ec0733dfd)
+![Screenshot 2023-12-12 025931](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/7240afbc-4850-4ac6-a236-0e5274cbba4a)
 
-## ARIMA(2,1) Model
+## Model 2: ARIMA(2,1) Model
 
-![Screenshot 2023-12-01 032923](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/2d28cfdc-982c-4f1f-ba21-0053ed42a046)
+![Screenshot 2023-12-12 030031](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/c52e480a-071b-4936-a07a-2ee4dfb0b2de)
 
-## SARIMA Model
+## Model 3: SARIMA Model
 
-![Screenshot 2023-12-01 033024](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/af098146-4637-4163-9388-ad7d84c08210)
+![Screenshot 2023-12-12 030111](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/b12acb34-a701-4097-8594-97d7507003aa)
 
-## PMDARIMA( auto_arima)
+## Model 4: PMDARIMA(auto_arima)
 
-![Screenshot 2023-12-01 033100](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/d997b779-d26f-46ce-85ea-a3f1e0c502e1)
-
+![Screenshot 2023-12-12 030151](https://github.com/frankkiptoo/Group-20-Phase-4-Project/assets/133040810/733911ff-cedc-450a-a5b8-ea270a313206)
 
 # Recommendations
 The top 5 zip codes ranked by highest return on investment (ROI) with the least amount of unpredictability and variation are:
