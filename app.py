@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
-from statsmodels.tsa.arima.model import ARIMA
+# from statsmodels.tsa.arima.model import ARIMA
 
 # Define the filename where the model is saved
 model_filename = 'arima_model.pkl'
